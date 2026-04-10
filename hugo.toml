@@ -1,6 +1,6 @@
 baseURL = "https://huge2.netlify.app/"
 languageCode = "en-us"
-title = "Huge2 Blog"
+title = "Huge2"
 theme = "PaperMod"
 
 [pagination]
