@@ -1,0 +1,35 @@
+baseURL = "https://bloghuge.netlify.app/"
+languageCode = "en-us"
+title = "Huge Blog"
+theme = "PaperMod"
+
+[pagination]
+pagerSize = 10
+
+[params]
+env = "production"
+description = "My fast tech blog built with Hugo"
+author = "Mubashir"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+
+    enableRobotsTXT = true
+
+[sitemap]
+changefreq = "daily"
+priority = 0.5
