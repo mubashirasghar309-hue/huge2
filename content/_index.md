@@ -1,5 +1,5 @@
 ---
-title: "Huge Blog"
+title: "ye Blog heading he"
 ---
 
-Welcome to my fast tech blog 🚀
+ye vo setting he jo fist time bnai thie basic ok 🚀
